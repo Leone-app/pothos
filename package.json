@@ -1,0 +1,26 @@
+{
+  "name": "pothos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:all": "pnpm -r build",
+    "ios": "pnpm --filter front ios"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "@swc/cli": "^0.3.12",
+    "@swc/core": "^1.5.24",
+    "eslint": "9.x",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "globals": "^15.3.0",
+    "prettier": "^3.3.1",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.12.0"
+  }
+}

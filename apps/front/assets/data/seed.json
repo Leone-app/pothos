@@ -1,0 +1,252 @@
+[
+    {
+        "appellation": "Bordeaux",
+        "year": 2015,
+        "quantity": 50
+    },
+    {
+        "appellation": "Burgundy",
+        "year": 2018,
+        "quantity": 30
+    },
+    {
+        "appellation": "Champagne",
+        "year": 2012,
+        "quantity": 20
+    },
+    {
+        "appellation": "Chianti",
+        "year": 2019,
+        "quantity": 40
+    },
+    {
+        "appellation": "Rioja",
+        "year": 2016,
+        "quantity": 60
+    },
+    {
+        "appellation": "Chardonnay",
+        "year": 2017,
+        "quantity": 45
+    },
+    {
+        "appellation": "Merlot",
+        "year": 2011,
+        "quantity": 55
+    },
+    {
+        "appellation": "Pinot Noir",
+        "year": 2020,
+        "quantity": 35
+    },
+    {
+        "appellation": "Sauvignon Blanc",
+        "year": 2013,
+        "quantity": 25
+    },
+    {
+        "appellation": "Syrah",
+        "year": 2014,
+        "quantity": 65
+    },
+    {
+        "appellation": "Bordeaux",
+        "year": 2010,
+        "quantity": 40
+    },
+    {
+        "appellation": "Burgundy",
+        "year": 2009,
+        "quantity": 30
+    },
+    {
+        "appellation": "Champagne",
+        "year": 2008,
+        "quantity": 20
+    },
+    {
+        "appellation": "Chianti",
+        "year": 2007,
+        "quantity": 50
+    },
+    {
+        "appellation": "Rioja",
+        "year": 2006,
+        "quantity": 60
+    },
+    {
+        "appellation": "Chardonnay",
+        "year": 2005,
+        "quantity": 45
+    },
+    {
+        "appellation": "Merlot",
+        "year": 2004,
+        "quantity": 55
+    },
+    {
+        "appellation": "Pinot Noir",
+        "year": 2003,
+        "quantity": 35
+    },
+    {
+        "appellation": "Sauvignon Blanc",
+        "year": 2002,
+        "quantity": 25
+    },
+    {
+        "appellation": "Syrah",
+        "year": 2001,
+        "quantity": 65
+    },
+    {
+        "appellation": "Bordeaux",
+        "year": 2000,
+        "quantity": 40
+    },
+    {
+        "appellation": "Burgundy",
+        "year": 2021,
+        "quantity": 30
+    },
+    {
+        "appellation": "Champagne",
+        "year": 2022,
+        "quantity": 20
+    },
+    {
+        "appellation": "Chianti",
+        "year": 2023,
+        "quantity": 50
+    },
+    {
+        "appellation": "Rioja",
+        "year": 2022,
+        "quantity": 60
+    },
+    {
+        "appellation": "Chardonnay",
+        "year": 2021,
+        "quantity": 45
+    },
+    {
+        "appellation": "Merlot",
+        "year": 2020,
+        "quantity": 55
+    },
+    {
+        "appellation": "Pinot Noir",
+        "year": 2019,
+        "quantity": 35
+    },
+    {
+        "appellation": "Sauvignon Blanc",
+        "year": 2018,
+        "quantity": 25
+    },
+    {
+        "appellation": "Syrah",
+        "year": 2017,
+        "quantity": 65
+    },
+    {
+        "appellation": "Bordeaux",
+        "year": 2016,
+        "quantity": 40
+    },
+    {
+        "appellation": "Burgundy",
+        "year": 2015,
+        "quantity": 30
+    },
+    {
+        "appellation": "Champagne",
+        "year": 2014,
+        "quantity": 20
+    },
+    {
+        "appellation": "Chianti",
+        "year": 2013,
+        "quantity": 50
+    },
+    {
+        "appellation": "Rioja",
+        "year": 2012,
+        "quantity": 60
+    },
+    {
+        "appellation": "Chardonnay",
+        "year": 2011,
+        "quantity": 45
+    },
+    {
+        "appellation": "Merlot",
+        "year": 2010,
+        "quantity": 55
+    },
+    {
+        "appellation": "Pinot Noir",
+        "year": 2009,
+        "quantity": 35
+    },
+    {
+        "appellation": "Sauvignon Blanc",
+        "year": 2008,
+        "quantity": 25
+    },
+    {
+        "appellation": "Syrah",
+        "year": 2007,
+        "quantity": 65
+    },
+    {
+        "appellation": "Bordeaux",
+        "year": 2006,
+        "quantity": 40
+    },
+    {
+        "appellation": "Burgundy",
+        "year": 2005,
+        "quantity": 30
+    },
+    {
+        "appellation": "Champagne",
+        "year": 2004,
+        "quantity": 20
+    },
+    {
+        "appellation": "Chianti",
+        "year": 2003,
+        "quantity": 50
+    },
+    {
+        "appellation": "Rioja",
+        "year": 2002,
+        "quantity": 60
+    },
+    {
+        "appellation": "Chardonnay",
+        "year": 2001,
+        "quantity": 45
+    },
+    {
+        "appellation": "Merlot",
+        "year": 2000,
+        "quantity": 55
+    },
+    {
+        "appellation": "Pinot Noir",
+        "year": 2023,
+        "quantity": 35
+    },
+    {
+        "appellation": "Sauvignon Blanc",
+        "year": 2022,
+        "quantity": 25
+    },
+    {
+        "appellation": "Syrah",
+        "year": 2021,
+        "quantity": 65
+    }
+]
